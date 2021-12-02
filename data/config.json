@@ -69,5 +69,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://testsite-8db9b.netlify.app"
 }
